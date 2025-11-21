@@ -1,0 +1,16 @@
+# OPTIMUM HIFI PRESET
+# Target Curve : Optimum HiFi
+# Data from    : Oratory1990 Reddit
+# Credits      : Oratory1990
+
+Preamp: -2.5 dB
+Filter: ON PK Fc 60 Hz Gain -3.4 dB Q 1.0
+Filter: ON PK Fc 270 Hz Gain -4.8 dB Q 0.5
+Filter: ON PK Fc 470 Hz Gain 3.3 dB Q 1.4
+Filter: ON PK Fc 740 Hz Gain -4.7 dB Q 1.6
+Filter: ON HSC Fc 1300 Hz Gain 3.0 dB Q 0.71
+Filter: ON PK Fc 1400 Hz Gain -2.0 dB Q 3.0
+Filter: ON PK Fc 3050 Hz Gain -4.4 dB Q 2.7
+Filter: ON PK Fc 3800 Hz Gain -1.0 dB Q 5.0
+Filter: ON PK Fc 4900 Hz Gain -3.4 dB Q 5.0
+Filter: ON HSC Fc 14000 Hz Gain -8.0 dB Q 0.71

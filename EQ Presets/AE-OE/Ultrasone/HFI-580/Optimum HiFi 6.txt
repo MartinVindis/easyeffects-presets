@@ -1,0 +1,23 @@
+# OPTIMUM HIFI PRESET
+# BASED ON THE CORRESPONDING HARMAN PRESET
+
+# This is the Harman preset...
+
+Preamp: -6.9 dB
+Filter 1: ON PK Fc 24 Hz Gain 6.5 dB Q 1.63
+Filter 2: ON PK Fc 170 Hz Gain 4.2 dB Q 2.57
+Filter 3: ON PK Fc 3287 Hz Gain -8.7 dB Q 1.90
+Filter 4: ON PK Fc 6022 Hz Gain 8.0 dB Q 1.56
+Filter 5: ON PK Fc 11790 Hz Gain -4.3 dB Q 0.47
+Filter 6: ON PK Fc 67 Hz Gain -2.8 dB Q 1.94
+Filter 7: ON PK Fc 81 Hz Gain 2.9 dB Q 2.56
+Filter 8: ON PK Fc 304 Hz Gain -1.5 dB Q 2.91
+Filter 9: ON PK Fc 1046 Hz Gain 1.5 dB Q 0.56
+Filter 10: ON PK Fc 2065 Hz Gain -2.0 dB Q 2.73
+
+# ... and these are additional Filters to go from Harman AE-OE to Optimum HiFi:
+
+Filter 11: ON PK  Fc    80 Hz Gain  1.0 dB Q 0.45
+Filter 12: ON LSC Fc   110 Hz Gain -5.8 dB Q 0.75
+Filter 13: ON HSC Fc  6000 Hz Gain -1.2 dB Q 0.707
+Filter 14: ON HSC Fc 11000 Hz Gain  0.8 dB Q 1.25

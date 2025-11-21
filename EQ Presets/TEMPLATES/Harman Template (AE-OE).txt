@@ -1,0 +1,6 @@
+# HARMAN PRESET
+# Target Curve : Harman AE-OE 2018
+# Data from    : 
+# Credits      : 
+
+{PUT HARMAN PRESET DATA HERE}

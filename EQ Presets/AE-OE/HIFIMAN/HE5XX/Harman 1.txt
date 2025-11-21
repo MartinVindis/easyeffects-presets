@@ -1,0 +1,15 @@
+# HARMAN PRESET
+# Target Curve : Harman AE-OE 2018
+# Data from    : Oratory1990 Reddit
+# Credits      : Oratory1990
+
+Preamp: -10.8 dB
+Filter: ON PK Fc 25 Hz Gain 5.3 dB Q 1.0
+Filter: ON LSC Fc 105 Hz Gain 5.5 dB Q 0.71
+Filter: ON PK Fc 470 Hz Gain -1.0 dB Q 4.0
+Filter: ON PK Fc 530 Hz Gain 1.8 dB Q 1.2
+Filter: ON HSC Fc 800 Hz Gain 5.0 dB Q 0.71
+Filter: ON PK Fc 910 Hz Gain -3.4 dB Q 3.0
+Filter: ON PK Fc 1300 Hz Gain -3.3 dB Q 3.0
+Filter: ON PK Fc 5400 Hz Gain -4.8 dB Q 4.5
+Filter: ON HSC Fc 11000 Hz Gain -7.0 dB Q 0.71

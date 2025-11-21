@@ -1,0 +1,13 @@
+# OPTIMUM HIFI PRESET (AE-OE)
+# BASED ON THE CORRESPONDING HARMAN PRESET (AE-OE)
+
+# This is the Harman preset...
+
+{PUT HARMAN PRESET DATA HERE}
+
+# ... and these are additional Filters to go from Harman to Optimum HiFi:
+
+Filter 11: ON PK  Fc    80 Hz Gain  1.0 dB Q 0.45
+Filter 12: ON LSC Fc   110 Hz Gain -5.8 dB Q 0.75
+Filter 13: ON HSC Fc  6000 Hz Gain -1.2 dB Q 0.707
+Filter 14: ON HSC Fc 11000 Hz Gain  0.8 dB Q 1.25

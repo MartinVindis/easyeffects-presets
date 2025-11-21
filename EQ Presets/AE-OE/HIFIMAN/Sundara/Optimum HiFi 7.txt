@@ -1,0 +1,27 @@
+# OPTIMUM HIFI PRESET
+# BASED ON THE CORRESPONDING HARMAN PRESET
+
+# This is the Harman preset...
+
+Preamp: -6.6 dB
+Filter 1: ON PK Fc 28 Hz Gain 6.4 dB Q 0.63
+Filter 2: ON PK Fc 312 Hz Gain -1.9 dB Q 0.65
+Filter 3: ON PK Fc 925 Hz Gain -3.0 dB Q 3.62
+Filter 4: ON PK Fc 1789 Hz Gain 5.8 dB Q 1.63
+Filter 5: ON PK Fc 19280 Hz Gain -16.3 dB Q 0.40
+Filter 6: ON PK Fc 3157 Hz Gain -1.8 dB Q 3.92
+Filter 7: ON PK Fc 4629 Hz Gain -0.1 dB Q 2.07
+Filter 8: ON PK Fc 4639 Hz Gain 1.4 dB Q 2.06
+Filter 9: ON PK Fc 8800 Hz Gain 0.9 dB Q 2.47
+Filter 10: ON PK Fc 14949 Hz Gain -1.5 dB Q 1.31
+
+# ... and these are additional Filters to go from Harman AE-OE to Optimum HiFi:
+
+Filter 11: ON PK  Fc    80 Hz Gain  1.0 dB Q 0.45
+Filter 12: ON LSC Fc   110 Hz Gain -5.8 dB Q 0.75
+Filter 13: ON HSC Fc  6000 Hz Gain -1.2 dB Q 0.707
+Filter 14: ON HSC Fc 11000 Hz Gain  0.8 dB Q 1.25
+
+# Optional Additional Filter by me for the Sundara (only for Optimum HiFi) :
+
+Filter 15: ON LSC Fc    22 Hz Gain  5.4 dB Q 0.88

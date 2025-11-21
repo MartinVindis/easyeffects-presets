@@ -1,0 +1,12 @@
+# HARMAN PRESET
+# Target Curve : Harman In-Ear 2019 v2
+# Data from    : Oratory1990 Reddit
+# Credits      : Oratory1990
+
+Preamp: -6.0 dB
+Filter: ON LSC Fc 64 Hz Gain 6.0 dB Q 0.7
+Filter: ON PK Fc 220 Hz Gain -3.1 dB Q 0.8
+Filter: ON PK Fc 840 Hz Gain 1.7 dB Q 1.5
+Filter: ON PK Fc 2820 Hz Gain -4.1 dB Q 3.2
+Filter: ON PK Fc 4000 Hz Gain 1.0 dB Q 2.0
+Filter: ON PK Fc 5200 Hz Gain -3.7 dB Q 6.0

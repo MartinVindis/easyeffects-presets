@@ -1,0 +1,4 @@
+# FLAT EQ PRESET (ORIGINAL HEADPHONE SOUND)
+# Adjust the Preamp value by ear to have the same perceived loudness as in the Harman preset
+
+Preamp: -2.1 dB

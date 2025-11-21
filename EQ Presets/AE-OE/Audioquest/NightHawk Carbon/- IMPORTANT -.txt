@@ -1,0 +1,12 @@
+IMPORTANT :
+===========
+
+These Nighthawk Carbon presets are identical to the Nighthawk Wood presets.
+
+As of today, Oratory1990 and others haven't measured the Nighthawk Carbon, only the Nighthawk Wood. But Oratory1990 measurements are the most accurate to date.
+
+Both headphones are strictly identical, except for the pads :
+- The Nighthawk Wood has one pair of hybrid pads (mostly pleather)
+- The Nighthawk Carbon has two pairs of pads (first pair pleather, second pair fabric)
+
+Therefore it's better to use the Nighthawk Wood Oratory preset as a basis for the Nighthawk Carbon, and then adjust the filters to your liking to compensate for the different pads.

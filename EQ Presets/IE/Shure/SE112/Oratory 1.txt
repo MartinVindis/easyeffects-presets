@@ -1,0 +1,16 @@
+# ORATORY PRESET
+# Target Curve : USOUND 1V1 In-Ear
+# Data from    : Oratory1990 Reddit
+# Credits      : Oratory1990
+
+Preamp: -10.4 dB
+Filter: ON PK Fc 270 Hz Gain -5.2 dB Q 0.6
+Filter: ON PK Fc 100 Hz Gain 0.8 dB Q 1.1
+Filter: ON PK Fc 850 Hz Gain 1.4 dB Q 1.5
+Filter: ON HSC Fc 3800 Hz Gain 12.8 dB Q 1.0
+Filter: ON PK Fc 4600 Hz Gain -16.5 dB Q 3.0
+Filter: ON HSC Fc 1170 Hz Gain -0.7 dB Q 1.0
+Filter: ON PK Fc 3100 Hz Gain 2.1 dB Q 2.5
+Filter: ON HSC Fc 8000 Hz Gain -11.0 dB Q 1.0
+Filter: ON PK Fc 7300 Hz Gain 3.0 dB Q 3.0
+Filter: ON PK Fc 1800 Hz Gain -0.8 dB Q 2.0

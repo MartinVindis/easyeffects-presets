@@ -1,0 +1,21 @@
+# HARMAN PRESET
+# Target Curve : Harman AE-OE 2018
+# Data from    : Oratory1990 Reddit
+# Credits      : Oratory1990
+
+Preamp: -7.1 dB
+Filter: ON LSC Fc 28 Hz Gain 2.0 dB Q 0.71
+Filter: ON PK Fc 66 Hz Gain -0.8 dB Q 1.5
+Filter: ON LSC Fc 105 Hz Gain 5.5 dB Q 0.71
+Filter: ON PK Fc 540 Hz Gain 1.0 dB Q 1.4
+Filter: ON PK Fc 2250 Hz Gain 3.3 dB Q 1.4
+Filter: ON PK Fc 6400 Hz Gain -4.1 dB Q 5.0
+Filter: ON PK Fc 7900 Hz Gain 4.0 dB Q 1.0
+Filter: ON PK Fc 8500 Hz Gain -3.0 dB Q 7.0
+Filter: ON HSC Fc 10000 Hz Gain -1.0 dB Q 0.71
+
+# The 28 Hz filter gain was changed from 0.0 dB to 2.0 dB for greater bass extension down to 30 Hz.
+# Like Oratory states in the PDF, this filter gain can be changed from 0.0 (no bass extension) to 7.0 dB (linear bass extension).
+# 2.0 dB seems like a good balance, plus this value was already used in Oratory's preliminary Sundara preset.
+# The preamp gain was adjusted accordingly, from -5.5 dB to -7.1 dB.
+# If we want less bass, there's already the Optimum HiFi preset.

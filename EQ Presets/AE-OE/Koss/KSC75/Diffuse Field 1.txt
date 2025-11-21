@@ -1,0 +1,15 @@
+# ORATORY PRESET
+# Target Curve : Diffuse Field
+# Data from    : Oratory1990 Reddit
+# Credits      : Oratory1990
+
+Preamp: -6.0 dB
+Filter: ON LSC Fc 60 Hz Gain 6.0 dB Q 0.71
+Filter: ON PK Fc 150 Hz Gain -3.9 dB Q 0.6
+Filter: ON PK Fc 2350 Hz Gain -1.9 dB Q 3.0
+Filter: ON PK Fc 2800 Hz Gain 1.2 dB Q 2.0
+Filter: ON PK Fc 3550 Hz Gain -2.0 dB Q 4.0
+Filter: ON PK Fc 5380 Hz Gain -6.2 dB Q 5.0
+Filter: ON PK Fc 6400 Hz Gain -3.1 dB Q 4.0
+Filter: ON PK Fc 7650 Hz Gain -3.9 dB Q 5.0
+Filter: ON PK Fc 11000 Hz Gain 3.5 dB Q 1.4
